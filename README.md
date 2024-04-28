@@ -20,8 +20,8 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
    ### Entering Sri Lankan Industry
 <table>
   <tr>
-    <td ><img src="Images/sl_industry_1.png" width=750 height=300></td>
-    <td><img src="Images/sl_industry2.png" width=750 height=300></td>  
+    <td ><img src="Images/sl_industry_1.png" width=750 height=280></td>
+    <td><img src="Images/sl_industry2.png" width=750 height=280></td>  
   </tr>
 </table>  
 
@@ -38,8 +38,8 @@ According to the above figure, we can understand why most students are willing t
    
   <table>
   <tr>
-    <td ><img src="Images/higherst_1.png" width=750 height=300></td>
-    <td><img src="Images/higherst_2.png" width=750 height=300></td>  
+    <td ><img src="Images/higherst_1.png" width=750 height=280></td>
+    <td><img src="Images/higherst_2.png" width=750 height=280></td>  
   </tr>
 </table>  
 The bar graph above illustrates that a significant proportion of students can be identified as research-oriented. Moreover, a considerable majority express a preference for pursuing further education abroad.
