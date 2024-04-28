@@ -20,8 +20,8 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
    ### Entering Sri Lankan Industry
 <table>
   <tr>
-    <td ><img src="Images/sl_industry_1.png" width=750 height=280></td>
-    <td><img src="Images/sl_industry2.png" width=750 height=280></td>  
+    <td ><img src="Images/sl_industry_1.png" width=750 height=300></td>
+    <td><img src="Images/sl_industry2.png" width=750 height=300></td>  
   </tr>
 </table>  
 
@@ -38,8 +38,8 @@ According to the above figure, we can understand why most students are willing t
    
   <table>
   <tr>
-    <td ><img src="Images/higherst_1.png" width=750 height=280></td>
-    <td><img src="Images/higherst_2.png" width=750 height=280></td>  
+    <td ><img src="Images/higherst_1.png" width=750 height=300></td>
+    <td><img src="Images/higherst_2.png" width=750 height=300></td>  
   </tr>
 </table>  
 The bar graph above illustrates that a significant proportion of students can be identified as research-oriented. Moreover, a considerable majority express a preference for pursuing further education abroad.
@@ -65,13 +65,13 @@ Based on the heatmap provided, it's evident that the majority of students antici
   Further we analysed the familiarity of the Career Guidance Unit (CGU) among the students and usage of its services. 
 
   <p align="center">
-    <img src="Images/cgu_1.PNG" width="750" height="300"> 
+    <img src="Images/cgu_1.png" width="750" height="300"> 
   </p>
 
   We saw that more than three fourths of the participants were aware of the CGU, but most of them think that the CGU has only a moderate influence on the career preferences of the undergraduates.
 
   <p align="center">
-    <img src="Images/cgu_2.PNG" width="750" height="300">
+    <img src="Images/cgu_2.png" width="750" height="300">
   </p>  
 
   When it comes to the familiarity of the local and overseas job markets, most students have a moderate idea about it. Yet a higher percentage of students are well aware of the job market when they have used the services of the CGU.
